@@ -1,0 +1,6 @@
+C:\Users\RodolfoJS\source\repos\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\Users\RodolfoJS\source\repos\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.exe
+C:\Users\RodolfoJS\source\repos\ByteBank\01-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\Users\RodolfoJS\source\repos\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\RodolfoJS\source\repos\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.exe
+C:\Users\RodolfoJS\source\repos\ByteBank\01-ByteBank\obj\Debug\01-ByteBank.pdb
